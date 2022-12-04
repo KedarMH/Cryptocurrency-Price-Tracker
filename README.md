@@ -1,6 +1,6 @@
 # Cryptocurrency Price Tracker app.
 
-⚪ You will be able to search currencies and have it display on the browser. 
+⚪ You will be able to search cryptocurrencies and have it display on the browser. 
 
 ⚪ Also, the prices will update live whenever you refresh the page. 
 
